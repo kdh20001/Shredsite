@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SHREDSITE V1",
   "resources": {
-    "hash": "sha256-ZbUvv2U3oO2nebtPfQg8KWdvrZA7lHhSmGx7+FXM3aY=",
+    "hash": "sha256-ekcZ01foewvTY85VRlORrx0rifBE5Vil+PwXDxYY8TY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-OcOFHwNFFSa7XKg2flxQxYkz9h8jq3zgYV/Hvyw4+WE=",
       "System.Text.RegularExpressions.wasm": "sha256-EBNNP57+VS/OjAuJHOY1mCfaJCJQYORnhF3/w7wP5kI=",
       "System.Private.CoreLib.wasm": "sha256-5NmIT0Xeso8jM7y95XTqA44UunMZ4lViSBrTcIOTlCo=",
-      "SHREDSITE V1.wasm": "sha256-StkTUsV1GvNP2+vFmufX4dCtpbNoajxyytpcaY8Epa8="
+      "SHREDSITE V1.wasm": "sha256-4UYENr+BbqnIiv4IY9RXsef9jQV4l7MOBuGGwxALcEg="
     }
   },
   "cacheBootResources": true,

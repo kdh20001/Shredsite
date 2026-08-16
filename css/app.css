@@ -110,3 +110,24 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+/*This fixes the nav buttons on phone screens!*/
+.nav-btn {
+    flex: 1 1 0; /* buttons share available space equally */
+    min-width: 0; /* allows them to shrink below content size */
+    padding: 15px 8px; /* smaller horizontal padding so text fits */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+}
+
+@media (max-width: 480px) {
+    .nav-btn {
+        font-size: 11px;
+        padding: 12px 4px;
+    }
+}
